@@ -1,4 +1,4 @@
-# My Super Awesome App <a target="_blank" href="https://kounter.kerolloz.dev"><img align="right" src="https://kounter.kerolloz.dev/badge/kerolloz.my-super-awesome-app?style=for-the-badge&color=567890&label=Views" /></a>
+# My Super Awesome App
 
 It's built with _**TypeScript**_, _**Svelte**_ and _**Tailwind CSS**_.  
 I mainly created it as a toy app to demonstrate a full-stack app deployment.

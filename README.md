@@ -3,7 +3,7 @@
 It's built with _**TypeScript**_, _**Svelte**_ and _**Tailwind CSS**_.  
 I mainly created it as a toy app to demonstrate a full-stack app deployment.
 
-<sup>Backend repo 👉 [kerolloz/my-super-awesome-api](https://github.com/kerolloz/my-super-awesome-api)</sup>
+<sup>Backend repo 👉 [pnlt/my-super-awesome-api](https://github.com/pnlt/my-super-awesome-api)</sup>
 
 ## Usage
 
